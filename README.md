@@ -1,2 +1,4 @@
 # TicTacToe
-![image](https://github.com/user-attachments/assets/05867d84-d326-4d88-989b-8fe97da777c9)
+# Диаграмма классов
+
+![Editor _ Mermaid Chart-2025-06-06-145616](https://github.com/user-attachments/assets/3cbe5a0e-6e24-42cd-bb20-9b7ec701aa87)
